@@ -12,3 +12,11 @@ RefactoringAction 1412239198377 Portfolio.java ADD Portfolio.java CLASS
 FileOpenedAction 1412239198736 Portfolio.java 55 0 0 0
 RefactoringAction 1412239229634 Portfolio.java ADD Double totalValue() METHOD
 EditAction 1412239233230 Portfolio.java 97 1 0 0
+CompilationAction 1412239233453 Portfolio.java
+CompilationAction 1412239233453 Portfolio.java
+CompilationAction 1412239247763 Portfolio.java
+CompilationAction 1412239247764 Portfolio.java
+RefactoringAction 1412239268347 Portfolio.java ADD void addStock FIELD
+RefactoringAction 1412239269381 Portfolio.java RENAME addStock=>void addStock() METHOD
+RefactoringAction 1412239276021 Portfolio.java RENAME addStock()=>void addStock(Stock) METHOD
+EditAction 1412239282417 Portfolio.java 146 2 1 0
