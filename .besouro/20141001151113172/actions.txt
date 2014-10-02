@@ -20,3 +20,13 @@ RefactoringAction 1412239268347 Portfolio.java ADD void addStock FIELD
 RefactoringAction 1412239269381 Portfolio.java RENAME addStock=>void addStock() METHOD
 RefactoringAction 1412239276021 Portfolio.java RENAME addStock()=>void addStock(Stock) METHOD
 EditAction 1412239282417 Portfolio.java 146 2 1 0
+CompilationAction 1412239282592 Portfolio.java
+RefactoringAction 1412239302390 Stock.java ADD Stock.java CLASS
+FileOpenedAction 1412239302891 Stock.java 51 0 0 0
+RefactoringAction 1412239316553 Stock.java ADD String name FIELD
+RefactoringAction 1412239321253 Stock.java ADD int quan FIELD
+RefactoringAction 1412239322610 Stock.java RENAME quan=>int quantiy FIELD
+RefactoringAction 1412239323835 Stock.java RENAME quantiy=>int quanti FIELD
+RefactoringAction 1412239324606 Stock.java RENAME quanti=>int quantit FIELD
+RefactoringAction 1412239325650 Stock.java RENAME quantit=>int quantity FIELD
+EditAction 1412239329478 Stock.java 95 0 0 0
