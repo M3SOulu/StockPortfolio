@@ -41,3 +41,5 @@ RefactoringAction 1412239394544 Portfolio.java ADD ArrayList<Stock> s FIELD
 RefactoringAction 1412239395822 Portfolio.java RENAME s=>ArrayList<Stock> stocks FIELD
 EditAction 1412239397829 Portfolio.java 203 2 1 0
 EditAction 1412239409179 Portfolio.java 226 2 2 0
+RefactoringAction 1412239428419 Portfolio.java ADD Portfolio() METHOD
+EditAction 1412239439257 Portfolio.java 292 3 3 0
