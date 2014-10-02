@@ -70,3 +70,5 @@ EditAction 1412239817927 PortfolioTest.java 290 1 2 0
 RefactoringAction 1412239899514 PortfolioTest.java ADD import org.easymock.EasyMock IMPORT
 CompilationAction 1412239912913 PortfolioTest.java
 EditAction 1412239913956 PortfolioTest.java 432 1 4 0
+FileOpenedAction 1412239972676 PortfolioTest.java 971 2 13 1
+EditAction 1412240140703 PortfolioTest.java 730 1 10 0
