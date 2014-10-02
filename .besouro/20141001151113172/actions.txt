@@ -49,3 +49,20 @@ RefactoringAction 1412239608298 Portfolio.java ADD void setMarket(StockMarket) M
 EditAction 1412239650615 Portfolio.java 559 5 6 0
 CompilationAction 1412239650843 Portfolio.java
 EditAction 1412239657836 Portfolio.java 576 5 7 0
+RefactoringAction 1412239714201 PortfolioTest.java ADD void test() METHOD
+RefactoringAction 1412239714211 PortfolioTest.java ADD import org.junit.Assert.* IMPORT
+RefactoringAction 1412239714293 PortfolioTest.java ADD PortfolioTest.java CLASS
+FileOpenedAction 1412239714533 PortfolioTest.java 182 1 1 0
+RefactoringAction 1412239718172 PortfolioTest.java RENAME test()=><initializer /1> null
+RefactoringAction 1412239720404 PortfolioTest.java RENAME <initializer /1>=>void shouldRe() METHOD
+RefactoringAction 1412239726915 PortfolioTest.java RENAME shouldRe()=>void shouldReturnThe() METHOD
+RefactoringAction 1412239728667 PortfolioTest.java RENAME shouldReturnThe()=>void shouldReturnTheTot() METHOD
+RefactoringAction 1412239728842 PortfolioTest.java RENAME shouldReturnTheTot()=>void shouldReturnTheTotal() METHOD
+RefactoringAction 1412239731001 PortfolioTest.java RENAME shouldReturnTheTotal()=>void shouldReturnTheTotalValueOf() METHOD
+RefactoringAction 1412239733054 PortfolioTest.java RENAME shouldReturnTheTotalValueOf()=>void shouldReturnTheTotalValueOfTheStock() METHOD
+RefactoringAction 1412239734067 PortfolioTest.java RENAME shouldReturnTheTotalValueOfTheStock()=>void shouldReturnTheTotalValueOfTheStocksI() METHOD
+RefactoringAction 1412239734205 PortfolioTest.java RENAME shouldReturnTheTotalValueOfTheStocksI()=>void shouldReturnTheTotalValueOfTheStocksIn() METHOD
+RefactoringAction 1412239736093 PortfolioTest.java RENAME shouldReturnTheTotalValueOfTheStocksIn()=>void shouldReturnTheTotalValueOfTheStocksInMyPortf() METHOD
+RefactoringAction 1412239736249 PortfolioTest.java RENAME shouldReturnTheTotalValueOfTheStocksInMyPortf()=>void shouldReturnTheTotalValueOfTheStocksInMyPortfo() METHOD
+RefactoringAction 1412239737268 PortfolioTest.java RENAME shouldReturnTheTotalValueOfTheStocksInMyPortfo()=>void shouldReturnTheTotalValueOfTheStocksInMyPortfolio() METHOD
+EditAction 1412239742913 PortfolioTest.java 199 1 0 0
