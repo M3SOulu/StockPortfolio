@@ -30,3 +30,9 @@ RefactoringAction 1412239323835 Stock.java RENAME quantiy=>int quanti FIELD
 RefactoringAction 1412239324606 Stock.java RENAME quanti=>int quantit FIELD
 RefactoringAction 1412239325650 Stock.java RENAME quantit=>int quantity FIELD
 EditAction 1412239329478 Stock.java 95 0 0 0
+RefactoringAction 1412239340806 Stock.java ADD String getName() METHOD
+RefactoringAction 1412239340806 Stock.java ADD void setName(String) METHOD
+RefactoringAction 1412239340806 Stock.java ADD int getQuantity() METHOD
+RefactoringAction 1412239340806 Stock.java ADD void setQuantity(int) METHOD
+RefactoringAction 1412239350564 Stock.java ADD Stock(String, int) METHOD
+EditAction 1412239372340 Stock.java 428 5 7 0
