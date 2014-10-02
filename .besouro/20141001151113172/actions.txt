@@ -36,3 +36,7 @@ RefactoringAction 1412239340806 Stock.java ADD int getQuantity() METHOD
 RefactoringAction 1412239340806 Stock.java ADD void setQuantity(int) METHOD
 RefactoringAction 1412239350564 Stock.java ADD Stock(String, int) METHOD
 EditAction 1412239372340 Stock.java 428 5 7 0
+RefactoringAction 1412239389832 Portfolio.java ADD import java.util.ArrayList IMPORT
+RefactoringAction 1412239394544 Portfolio.java ADD ArrayList<Stock> s FIELD
+RefactoringAction 1412239395822 Portfolio.java RENAME s=>ArrayList<Stock> stocks FIELD
+EditAction 1412239397829 Portfolio.java 203 2 1 0
