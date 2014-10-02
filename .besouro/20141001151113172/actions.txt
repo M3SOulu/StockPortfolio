@@ -43,3 +43,7 @@ EditAction 1412239397829 Portfolio.java 203 2 1 0
 EditAction 1412239409179 Portfolio.java 226 2 2 0
 RefactoringAction 1412239428419 Portfolio.java ADD Portfolio() METHOD
 EditAction 1412239439257 Portfolio.java 292 3 3 0
+RefactoringAction 1412239597658 Portfolio.java ADD StockMarket market FIELD
+RefactoringAction 1412239608298 Portfolio.java ADD StockMarket getMarket() METHOD
+RefactoringAction 1412239608298 Portfolio.java ADD void setMarket(StockMarket) METHOD
+EditAction 1412239650615 Portfolio.java 559 5 6 0
