@@ -78,3 +78,5 @@ EditAction 1412240216027 PortfolioTest.java 853 1 12 1
 UnitTestCaseAction 1412240231788 PortfolioTest.java OK
 UnitTestSessionAction 1412240231790 PortfolioTest (2) OK
 EditAction 1412240240989 PortfolioTest.java 853 1 12 1
+UnitTestCaseAction 1412240243044 PortfolioTest.java FAIL
+UnitTestSessionAction 1412240243045 PortfolioTest (2) FAIL
