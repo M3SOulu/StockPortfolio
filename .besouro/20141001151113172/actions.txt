@@ -8,3 +8,7 @@ RefactoringAction 1412239151743 StockMarket.java RENAME getStoc=>Double getStock
 RefactoringAction 1412239151784 StockMarket.java RENAME getStockValue=>Double getStockValue() METHOD
 RefactoringAction 1412239156579 StockMarket.java RENAME getStockValue()=>Double getStockValue(String) METHOD
 EditAction 1412239159242 StockMarket.java 109 1 0 0
+RefactoringAction 1412239198377 Portfolio.java ADD Portfolio.java CLASS
+FileOpenedAction 1412239198736 Portfolio.java 55 0 0 0
+RefactoringAction 1412239229634 Portfolio.java ADD Double totalValue() METHOD
+EditAction 1412239233230 Portfolio.java 97 1 0 0
