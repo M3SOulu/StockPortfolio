@@ -66,3 +66,4 @@ RefactoringAction 1412239736093 PortfolioTest.java RENAME shouldReturnTheTotalVa
 RefactoringAction 1412239736249 PortfolioTest.java RENAME shouldReturnTheTotalValueOfTheStocksInMyPortf()=>void shouldReturnTheTotalValueOfTheStocksInMyPortfo() METHOD
 RefactoringAction 1412239737268 PortfolioTest.java RENAME shouldReturnTheTotalValueOfTheStocksInMyPortfo()=>void shouldReturnTheTotalValueOfTheStocksInMyPortfolio() METHOD
 EditAction 1412239742913 PortfolioTest.java 199 1 0 0
+EditAction 1412239817927 PortfolioTest.java 290 1 2 0
