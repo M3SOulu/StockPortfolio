@@ -67,3 +67,6 @@ RefactoringAction 1412239736249 PortfolioTest.java RENAME shouldReturnTheTotalVa
 RefactoringAction 1412239737268 PortfolioTest.java RENAME shouldReturnTheTotalValueOfTheStocksInMyPortfo()=>void shouldReturnTheTotalValueOfTheStocksInMyPortfolio() METHOD
 EditAction 1412239742913 PortfolioTest.java 199 1 0 0
 EditAction 1412239817927 PortfolioTest.java 290 1 2 0
+RefactoringAction 1412239899514 PortfolioTest.java ADD import org.easymock.EasyMock IMPORT
+CompilationAction 1412239912913 PortfolioTest.java
+EditAction 1412239913956 PortfolioTest.java 432 1 4 0
